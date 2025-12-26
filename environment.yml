@@ -1,0 +1,13 @@
+name: fibonacci-xxz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - tenpy
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - h5py
+  - pandas
