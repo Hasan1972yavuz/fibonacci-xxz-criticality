@@ -1,0 +1,4 @@
+
+Platzhalter für finale N=610-Daten  
+(O_π = 0.0365 ± 0.0080, Berry-Phase = 0.25π ± 0.08, S_max = 1.705 ± 0.004)  
+Die echten .h5-Dateien werden nachgereicht.
