@@ -1,0 +1,9 @@
+# Platzhalter für N=610 DMRG-Daten (später echte .h5)
+# Finale Werte :
+# Delta = 0.465
+# discarded_weight = 1.3e-8
+# O_π = 0.0365 ± 0.0080
+# Berry-Phase = 0.25π ± 0.08
+# S_max = 1.705 ± 0.004
+# Energie pro Site = -0.88116789
+# Konvergiert nach 420 Sweeps (χ=2048)
