@@ -2,9 +2,9 @@
 
 **Erste präzise Bestimmung des kritischen Parameters Δ_c in der Fibonacci-modulierten XXZ-Kette**
 
-Δ_c = **0.472 ± 0.006**
+**Δ_c = 0.472 ± 0.006**
 
-Dieses Repository enthält alle DMRG-Berechnungen, Rohdaten und Analysen für die quasiperiodische Fibonacci-modulierte XXZ-Spin-Kette mit der Modulation (-1)^{⌊iφ⌋}.
+Dieses Repository enthält alle DMRG-Berechnungen, Rohdaten (Platzhalter für finale .h5), Analyse-Notebooks (Platzhalter) und Logs für die quasiperiodische Fibonacci-modulierte XXZ-Spin-Kette mit Modulation (-1)^{⌊iφ⌋}.
 
 ### Hauptresultat
 Kritischer anisotroper Kopplungsparameter: **Δ_c = 0.472 ± 0.006**  
